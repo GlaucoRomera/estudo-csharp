@@ -1,0 +1,14 @@
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\Composition1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\Composition1.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\Composition1.AssemblyInfo.cs
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\Composition1.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Composition1\Composition1\bin\Debug\net8.0\Composition1.exe
+C:\Users\Me\source\repos\Composition1\Composition1\bin\Debug\net8.0\Composition1.deps.json
+C:\Users\Me\source\repos\Composition1\Composition1\bin\Debug\net8.0\Composition1.runtimeconfig.json
+C:\Users\Me\source\repos\Composition1\Composition1\bin\Debug\net8.0\Composition1.dll
+C:\Users\Me\source\repos\Composition1\Composition1\bin\Debug\net8.0\Composition1.pdb
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\Composition1.dll
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\refint\Composition1.dll
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\Composition1.pdb
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\Composition1.genruntimeconfig.cache
+C:\Users\Me\source\repos\Composition1\Composition1\obj\Debug\net8.0\ref\Composition1.dll
